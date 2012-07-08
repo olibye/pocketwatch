@@ -1,6 +1,8 @@
-package net.xpdeveloper.inf.clock;
+package net.xpdeveloper.pocketwatch;
 
 import java.util.Date;
+
+import net.xpdeveloper.pocketwatch.ClockMechanism;
 
 /**
  * I always return the same time, this is useful for matching test data

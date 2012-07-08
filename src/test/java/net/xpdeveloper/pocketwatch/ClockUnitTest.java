@@ -1,10 +1,13 @@
-package net.xpdeveloper.inf.clock;
+package net.xpdeveloper.pocketwatch;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 import java.util.Calendar;
 import java.util.Date;
+
+import net.xpdeveloper.pocketwatch.Clock;
+import net.xpdeveloper.pocketwatch.SystemTimeMechanism;
 
 import org.junit.Test;
 

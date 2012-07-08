@@ -1,4 +1,4 @@
-package net.xpdeveloper.inf.clock;
+package net.xpdeveloper.pocketwatch;
 
 
 /**

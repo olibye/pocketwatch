@@ -1,4 +1,4 @@
-package net.xpdeveloper.inf.clock;
+package net.xpdeveloper.pocketwatch;
 
 /**
  * I'm used to provide a thin interface to time. Sometimes we want Java system
